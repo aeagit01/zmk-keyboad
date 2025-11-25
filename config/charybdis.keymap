@@ -76,8 +76,8 @@ behaviors {
             bindings = <
 &kp F1          &none            &none          &none            &none            &kp F6        &kp F7     &kp F8      &kp F9            &kp F10        &kp F11   &kp F12
 &kp CAPS        &kp F2           &kp F3         &kp F4           &bt BT_NXT       &bt BT_CLR    &none      &kp UP      &kp UP            &none          &none     &none
-&kp LEFT_SHIFT  &kp LEFT         &kp UP         &kp DOWN         &kp RIGHT        &kp PGUP      &kp LEFT   &kp DOWN    &kp RIGHT         &kp PGDN       &none     &none
-&kp LCTRL       &kp HOME         &kp PGUP       &kp PGDN         &kp END          &kp F10       &kp F11    &kp F9      &kp RIGHT_BRACKET &kp PERIOD     &none     &kp EQUAL
+&kp LEFT_SHIFT  &kp LEFT         &kp DOWN       &kp UP           &kp RIGHT        &kp PGUP      &kp LEFT   &kp DOWN    &kp RIGHT         &kp PGDN       &none     &none
+&kp LCTRL       &kp HOME         &kp PGDN       &kp PGUP         &kp END          &kp F9        &kp F10    &kp F11     &kp RIGHT_BRACKET &kp PERIOD     &kp DEL   &kp EQUAL
                                                 &kp LEFT_ALT     &kp F5           &to 0         &to 2      &none
                                                                  &mkp MB1         &mkp MB2      &kp ENTER
             >;
